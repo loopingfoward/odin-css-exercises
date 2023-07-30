@@ -1,0 +1,14 @@
+.avatar.proportioned {
+    height: auto;
+    width: 100px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
